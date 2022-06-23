@@ -1,0 +1,31 @@
+<result code="0" message="성공">
+    <SafeDroidConfig GCode="20210402164206249" GName="괘발" UID="hslee" UName="이희승" SelfDecryption="0" Version="20120401" LID="hslee">
+        <RefreshPolicyPeriod>10</RefreshPolicyPeriod>
+        <UserInfo Identity="hslee" MAC="000C29855EEC" Kind="B"/>
+        <PolicyList>
+            <PolicyInfo Code="PO20110118153947593" Name="기본 정책" GradeCode="GD20110118153832770">
+                <![CDATA[ PA20110118152104217:10 | PA20110118152037183:10 | PA20110118152010493:10 | PA20110118151940353:10 | PA20110118151914403:10 | PA20110118151811913:10 | PA20110118151610630:10 | PA20110118151536063:10 | PA20110118151502987:10 | PA20110118151348470:10 ]]>
+            </PolicyInfo>
+        </PolicyList>
+        <SearchPeriod>
+            <PollingPeriod>60</PollingPeriod>
+            <LogUploadPeriod>240</LogUploadPeriod>
+            <Manual>1</Manual>
+            <DetectSearch>1</DetectSearch>
+            <AutoIndexing>1</AutoIndexing>
+            <FileSizeMin>0</FileSizeMin>
+            <FileSizeMax>0</FileSizeMax>
+            <OnlineCheck>1</OnlineCheck>
+            <IndexingPeriod>5</IndexingPeriod>
+            <UnapprovedFileDeny>1</UnapprovedFileDeny>
+            <RealtimeEnc>0</RealtimeEnc>
+            <PrivacyOutputMenu>0</PrivacyOutputMenu>
+            <RemovableDeviceDetect>0</RemovableDeviceDetect>
+            <LogUnsupportedFile>0</LogUnsupportedFile>
+            <MaskingPrint>0</MaskingPrint>
+            <IndexingPeriodEX>
+                <IndexingItem Type="0" Day="" Date=""/>
+            </IndexingPeriodEX>
+        </SearchPeriod>
+    </SafeDroidConfig>
+</result>
